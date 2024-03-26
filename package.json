@@ -1,7 +1,6 @@
 {
   "name": "marvel-app",
   "version": "0.1.0",
-  "homepage": "https:timaliveprogman.github.io/Marvel-comics",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.2.8",
